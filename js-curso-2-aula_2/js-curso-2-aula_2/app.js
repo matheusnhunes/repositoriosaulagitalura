@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let quantidadeDeNumerosSorteados = 10;
+let quantidadeDeNumerosSorteados = 100;
 let numeroSecreto;
 let tentativas;
 reiniciarJogo();
